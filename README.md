@@ -11,3 +11,5 @@ You can go to a lesson through the lesson catalog
 You can go to a page by typing the page and pressing the go button
 
 Note: IOS/Web is the More Modern Version
+
+This was Downloaded using an xapk and extracting it
